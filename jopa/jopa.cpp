@@ -125,8 +125,8 @@ Scene scenes[] = {
         u8"", u8"", 0, -1, "resources/sc5ushanka.png"
 }, };
 
-int abc;
 
+int assd
 
 int currentScene = 0;
 int selectedOption = 0;
