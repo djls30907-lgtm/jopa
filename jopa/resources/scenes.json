@@ -1,0 +1,222 @@
+[
+  {
+    "StoryText": "Ты смотришь в обледенелое окно автобуса. За стеклом — сплошная белая стена.\nБуран начался внезапно, отрезав рейс №402 от цивилизации.\n",
+    "choices": [],
+    "backgroundPath": "resources/scene1.png",
+    "musicPath": "resources/music2.mp3",
+    "nextSceneDefault": 1
+  },
+  {
+    "StoryText": "В салоне холодно, изо рта идет пар. Рядом с тобой нервно трясет ногой твой лучший друг, Макс.\nЧуть позади тихо переговариваются брат и сестра, Денис и Аня,\nстараясь согреть друг другу руки.",
+    "choices": [],
+    "backgroundPath": "resources/scene1.png",
+    "musicPath": "",
+    "nextSceneDefault": 2
+  },
+  {
+    "StoryText": "Внезапно автобус резко дергается.\nКолеса скользят по льду, мотор издает натужный вой, захлебывается и глохнет.\nВ салоне гаснет свет..",
+    "choices": [],
+    "backgroundPath": "resources/scene2.png",
+    "musicPath": "",
+    "nextSceneDefault": 3
+  },
+  {
+    "StoryText": "Маркус, грузный водитель, бьет кулаком по рулю: «Двигатель сдох. Печка остынет. Если останемся здесь — замерзнем. Я видел свет в паре десятков метров. Кафе. Идем туда».",
+    "choices": [],
+    "backgroundPath": "resources/scene2.png",
+    "musicPath": "",
+    "nextSceneDefault": 4
+  },
+  {
+    "StoryText": "Вы вываливаетесь в ревущую метель. Сквозь пелену снега пробивается неоновый свет вывески: «У ОБОЧИНЫ»",
+    "choices": [],
+    "backgroundPath": "resources/scene3.png",
+    "musicPath": "",
+    "nextSceneDefault": 5
+  },
+  {
+    "StoryText": "Ты толкаешь тяжелую дверь. Внутри тепло, пахнет кофе. Но первое, что бросается в глаза — вы здесь не одни. На вас устремляются взгляды людей, которые уже пережидают бурю.",
+    "choices": [],
+    "backgroundPath": "resources/scene4.png",
+    "musicPath": "",
+    "nextSceneDefault": 6
+  },
+  {
+    "StoryText": "За стойкой — Илья, работник кафе. Он спокойно протирает стакан: «Места хватит всем. Кофе за счет заведения». В углу сидит хмурый мужчина с дочкой.",
+    "choices": [],
+    "backgroundPath": "resources/scene4.png",
+    "musicPath": "",
+    "nextSceneDefault": 7
+  },
+  {
+    "StoryText": "За соседним столиком парень с фотоаппаратом. А у окна, закинув ноги на стул, сидит девушка в кожаной куртке — Рита.",
+    "choices": [],
+    "backgroundPath": "resources/scene4.png",
+    "musicPath": "",
+    "nextSceneDefault": 8
+  },
+  {
+    "StoryText": "Макс падает на стул. Денис и Аня снимают шапки. Водитель идет к бармену. Что ты будешь делать?",
+    "choices": [
+      { "text": "Подойти к мужчине с дочкой", "next": 9 },
+      { "text": "Заговорить с фотографом (Костей)", "next": 21 }
+    ],
+    "backgroundPath": "resources/scene4.png",
+    "musicPath": "",
+    "nextSceneDefault": -1
+  },
+  {
+    "StoryText": "Ты подходишь к столику. Мужчина крепко обнимает дочь. Перед ними пустые стаканы — кажется, они выпили свой чай очень давно.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 10
+  },
+  {
+    "StoryText": "— Тяжелая выдалась ночка, верно? — негромко говорит мужчина, поправляя куртку на плечах дочери.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 11
+  },
+  {
+    "StoryText": "— У нашей машины пробило колесо. Пришлось бросить её на обочине. Юлька совсем закоченела.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 12
+  },
+  {
+    "StoryText": "— Мы едем к моей сестре, обещали быть к ужину... А теперь сидим здесь, ждем, пока небо перестанет падать на землю.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 13
+  },
+  {
+    "StoryText": "— Мы тоже ехали в ту сторону. Вы давно здесь сидите? Проезжал кто-нибудь еще?",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 14
+  },
+  {
+    "StoryText": "— С пяти вечера ни души. Мои часы встали. До вашего автобуса никто не проезжал.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 15
+  },
+  {
+    "StoryText": "— Главное, что вы в тепле. Юля, хочешь еще горячего шоколада? Я попрошу у бармена.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 16
+  },
+  {
+    "StoryText": "Мужчина улыбается: «Это было бы здорово. Илья говорил, у него есть какао. Будем очень признательны».",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 17
+  },
+  {
+    "StoryText": "— А те двое? Они были здесь, когда вы пришли?",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 18
+  },
+  {
+    "StoryText": "— Костя был тут. А Рита приехала на мотоцикле через сорок минут после нас. Мы тут теперь как в Ноевом ковчеге.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 19
+  },
+  {
+    "StoryText": "— Нас просто выкинуло с трассы. Если бы не Маркус, мы бы сейчас лежали в сугробах на дне оврага.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 20
+  },
+  {
+    "StoryText": "— Рад, что вы добрались. В такую погоду человек человеку — единственный шанс не сойти с ума.",
+    "choices": [],
+    "backgroundPath": "resources/sc5otec.png",
+    "musicPath": "",
+    "nextSceneDefault": 8
+  },
+  {
+    "StoryText": "Ты подходишь к парню в ушанке. Он протирает объектив: — О, привет! Присаживайся, тут у фонаря теплее.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 22
+  },
+  {
+    "StoryText": "— Я Костя. Фотограф. Вы эффектно зашли! Если бы не села вспышка, был бы кадр для обложки.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 23
+  },
+  {
+    "StoryText": "— Я приехал засветло. В этом есть что-то уютное... пока не поймешь, что мы заперты. — Он кивает на блокнот с пометками.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 24
+  },
+  {
+    "StoryText": "— Ты был тут совсем один? Как вел себя Илья до нашего приезда?",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 25
+  },
+  {
+    "StoryText": "— Было глухо. Илья парень своеобразный. Протирал стаканы сорок минут кряду, почти не разговаривал.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 26
+  },
+  {
+    "StoryText": "— Можно взглянуть на фото?",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 27
+  },
+  {
+    "StoryText": "— Экономлю заряд. Сделал пару кадров, когда зашли Андрей с Юлей и Рита. Пока это «закрытый показ», извини.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 28
+  },
+  {
+    "StoryText": "— Я вижу, ты что-то записываешь. Дневник выживания?",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 29
+  },
+  {
+    "StoryText": "— Привычка. Записываю время, когда свет моргнул или кто что заказал. Помогает не терять связь с реальностью.",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 30
+  },
+  {
+    "StoryText": "— Могу и ваше прибытие записать: «Рейс №402, куча замерзших, но живых людей». Начало хорошего репортажа, а?",
+    "choices": [],
+    "backgroundPath": "resources/sc5ushanka.png",
+    "musicPath": "",
+    "nextSceneDefault": 8
+  }
+]
